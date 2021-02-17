@@ -6,7 +6,7 @@ jdk:
 addons:
  sonarcloud:
   organization: "marcocasentini"
-  token: "3f0bfacca468d9c8fb7dc081fbeec65986dafffb"
+  token: "12d5ef6e6d957d84df11c92ae0ab0afd5ca6705c"
 
 
 script:
